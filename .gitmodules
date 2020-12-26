@@ -7,3 +7,4 @@
 [submodule "src/dotnet"]
 	path = src/dotnet
 	url = git@github.com:kongomongo/cec-dotnet.git
+	branch = master
